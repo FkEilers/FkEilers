@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Newly passionate about Data Science, which has led me to embark on a constant journey of discovery. I seek to apply my skills in areas such as machine learning, data analysis, and visualization to contribute to the community and grow professionally.
+New passionate and apprentice of Data Science, which has led me to embark on a constant journey of discovery. I seek to apply my skills in areas such as machine learning, data analysis, and visualization to contribute to the community and grow professionally.
 
 Experienced in Business Development and Strategy, Customer Service, and Marketing with international exposure in Latin America, Europe, and the USA. Passionate about discovering new cultures, art, and photography, as well as audiovisual production.
 
